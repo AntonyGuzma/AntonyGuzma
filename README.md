@@ -1,10 +1,9 @@
 ###  Name: Antony Guzmã 
 ###  Nickname: Doguinho_a
-<div align="center">
-  <a href="https://github.com/AntonyGuzma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonyGuzma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyGuzma&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  ![Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyGuzma&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyGuzma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
   
   ###  Linguagens
   <div style="display: inline_block"><br>
@@ -15,7 +14,10 @@
   <img align="center" alt="Md-MArkdown" height="40" width="90" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   </div>
   
-  ### Social Midia
+  ### Social Midia/SO
    [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/doguinho_a)
    [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) 
+   [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]()
+   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+
  
