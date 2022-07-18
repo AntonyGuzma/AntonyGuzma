@@ -38,6 +38,14 @@
   <a href="https://www.twitch.tv/doguinho_a" width="40" target="_blank"><img  width="125"  height="35"  src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
   
-  
+ <br>
 
+
+<h2 align="center">
   
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ccagoiyeujk3n63qzohlvjtslm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</h2>
+
+
+
+
