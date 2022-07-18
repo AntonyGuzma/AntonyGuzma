@@ -1,7 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Bem - Vindo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Antony+Gusmão;Eu+Tenho+20+Anos;Sou+Programador+FrontEnd)](https://git.io/typing-svg)
 
+<div align="center">  
+       <img align="center" alt="Vscode"  width="16%" height="16%" src="https://user-images.githubusercontent.com/88747866/179570008-696c3b80-8bba-4e9d-8372-aff7a8ca8029.png">
+</div>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Antony+Gusmão;Eu+Tenho+20+Anos;Sou+Programador+FrontEnd)](https://git.io/typing-svg)
 
 
 <div align="center">  
