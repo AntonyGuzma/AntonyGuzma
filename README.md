@@ -2,7 +2,7 @@
 
 
 <div align="center">  
-       <img align="center" alt="Vscode"  width="16%" height="16%" src="https://user-images.githubusercontent.com/88747866/179570008-696c3b80-8bba-4e9d-8372-aff7a8ca8029.png">
+
 </div>
 
 
