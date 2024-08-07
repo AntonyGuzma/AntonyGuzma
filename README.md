@@ -33,14 +33,14 @@
   <img align="center" alt="Docker" height="45" width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" >
   <img align="center" alt="AWS" height="45" width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" >
   <img align="center" alt="AWS" height="45" width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" >
-  <img align="center" alt="AWS" height="45" width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" >
+
   
 </div><br>
           
   
   <div align="center">
  <a href="https://discord.com/channels/@me/887042376579817545" target="_blank"><img  width="130" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antony-guzm%C3%A3-a-694404221/" width="40" target="_blank"><img  width="138"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/antony-gusmão-694404221" width="40" target="_blank"><img  width="138"src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.twitch.tv/doguinho_a" width="40" target="_blank"><img  width="125"  height="35"  src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
   
